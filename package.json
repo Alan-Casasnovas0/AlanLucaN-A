@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@ag-grid-community/angular": "^32.3.3",
+    "@ag-grid-community/core": "^32.3.3",
+    "ag-grid-angular": "^33.0.3",
+    "ag-grid-community": "^33.0.3",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17"
+  }
+}
